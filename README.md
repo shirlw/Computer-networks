@@ -1,5 +1,5 @@
 # Computer-networks
-File Transfer/Processing Programs from Fall 2017
+File Transfer/Processing Programs from Fall 2017.
 
 The two projects transfer and process files between a server and client with socket programming in C.
 
